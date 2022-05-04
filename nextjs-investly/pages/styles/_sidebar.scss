@@ -31,9 +31,16 @@
   .sidebar__link.active {
     background: #F7F7FB;
     color: #0D0D54;
+    position: relative;
   }
   .sidebar__link:not(.logo):hover {
     background: #F7F7FB;
+  }
+  .sidebar__link.active:after {
+    content: "";
+    width: 4px;
+    background: #4040F2;
+    position: absolute;
   }
   .sidebar__profile {
     position: absolute;
