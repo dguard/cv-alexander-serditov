@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+
+@import "sidebar";
+@import "home";
+
+h1 {
+  font-size: 100px;
+  margin: 0;
+  font-family: "Righteous", cursive;
+
+  @media (max-width: 500px) {
+    font-size: 80px;
+  }
+}
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body {
+  font-family: 'Work Sans';
+  font-style: normal;
+  min-height: 700px;
+}
+
+#__next {
+  height: 100%;
+
+  > section {
+    height: 100%;
+  }
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Boston family home",
+        "description": "A beautiful townhouse in the heart of Miami’s down\ntown district. With 3 bedrooms and a heated pool.",
+        "location": "Boston",
+        "size": "5 bedrooms",
+        "kind": "Villa",
+        "imgSrc": "/boston-1.png"
+    },
+    {
+        "id": 2,
+        "title": "Miami beach house",
+        "description": "A beautiful townhouse in the heart of Miami’s down\ntown district. With 3 bedrooms and a heated pool.",
+        "location": "Miami",
+        "size": "5 bedrooms",
+        "kind": "House",
+        "imgSrc": "/miami-1.png"
+    },
+    {
+        "id": 3,
+        "title": "New York Townhouse",
+        "description": "A beautiful townhouse in the heart of Miami’s down\ntown district. With 3 bedrooms and a heated pool.",
+        "location": "New York",
+        "size": "5 bedrooms",
+        "kind": "Townhouse",
+        "imgSrc": "/new-york-1.png"
+    },
+    {
+        "id": 4,
+        "title": "Beachfront Mansion Miami",
+        "description": "A beautiful townhouse in the heart of Miami’s down\ntown district. With 3 bedrooms and a heated pool.",
+        "location": "Boston",
+        "size": "5 bedrooms",
+        "kind": "Villa",
+        "imgSrc": "/miami-2.png"
+    },
+    {
+        "id": 5,
+        "title": "Hamptons Villa",
+        "description": "A beautiful townhouse in the heart of Miami’s down\ntown district. With 3 bedrooms and a heated pool.",
+        "location": "Boston",
+        "size": "5 bedrooms",
+        "kind": "Villa",
+        "imgSrc": "/hamptons-1.png"
+    },
+    {
+        "id": 6,
+        "title": "San Fransisco Condo",
+        "description": "A beautiful townhouse in the heart of Miami’s down\ntown district. With 3 bedrooms and a heated pool.",
+        "location": "Boston",
+        "size": "5 bedrooms",
+        "kind": "Condo",
+        "imgSrc": "/san-francisco-1.png"
+    }
+]
