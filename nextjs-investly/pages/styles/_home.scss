@@ -67,6 +67,10 @@
       justify-content: space-between;
       background: #FFFFFF;
 
+      &:not(:last-child) {
+        margin-right: 24px;
+      }
+
       > div {
         display: flex;
         flex-direction: column;
@@ -93,6 +97,7 @@
         width: 95px;
         height: 95px;
         margin-right: 32px;
+        max-width: 100%;
       }
     }
   }
@@ -161,6 +166,7 @@
             width: 312px;
             height: 157px;
             margin-bottom: 24px;
+            max-width: 100%;
           }
 
           .title {
